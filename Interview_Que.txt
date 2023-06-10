@@ -1,0 +1,76 @@
+Q. Write a program to print the longest substring from two strings.
+	
+	//inputString1="javatestdev";
+	//inputString2="devtestnet";
+	ExpectedOutput - test
+
+Q. Write a program to print Fibonacci series till 10
+
+Q.Write a SQL query to get the second highest salary of an employee from the employee table?
+
+Q. Write a program in java to return max sum of contiguous subarray of size 3?
+(Write algorithm steps as well)
+
+Example. [2,1,5,1,3,2],  where k=3 (max size of sub array)
+
+Q. Write a method to return the maximum value from an integer array passed as an input parameter.
+
+Q. Write a SQL query to return the 7th highest salary of an employee?
+
+Q. Write a program to return the maximum occurrence element from the array?
+	Input 	: int[] arr = {1,5,3,5,6,5};
+	Output 	: 5
+
+Q. Write a program to check Palindrome number
+   Input : 59095
+
+Q. Write a program to reverse String without using reverse function (Use brute force approach)
+
+Q. Write a program to display the count of each word in a string?
+	Input : str = "w1 w2 w2 w3 w3 w4
+	
+Q. Write a java 8 program to make all elements of the list to uppercase and create a new ArrayList?
+
+Q. Write a program in java to print PreOrder Traversal 
+
+Q. Write SQL query to display 10th highest salary of employee?
+
+Q. Write a program to calculate average marks of students and return the student object with average marks?
+
+Q. Write a java 8 code to get the age greater than 15 from the Employee object?
+
+Q. SQL query to get the youngest employee from the employee table?
+
+Q. SQL query to get list of employees from Finance department?
+
+Q. Write a program - How to check whether a number is an Armstrong or not?
+
+Q. Write a program to print a possible set of palindromes of a given string? 
+ 	 Input : ABBAAAAABBA 
+  	Output : B, BB, AA, AAA, AAAA, AAAAA, ABBA, BAAAAAB, BBAAAAABB, ABBAAAAABBA
+
+Q. Write a program to return the minimum number of platforms required for a train?
+Input : 
+12:05  12:50
+13:10  14:25
+05:30 07:25 
+05:35 05:55
+02:15 02:20
+
+Q. Write a java program to find element closest to given target
+Input -  int arr[] = { 1, 2, 4, 5, 6, 6, 8, 9 };
+        int target = 11;
+		
+Output - 9
+
+Q. Write a program to perform Overriding methods in parent child?
+
+
+Q. Write a program to balancing of the brackets
+	Example : Input - {[(a+b)+c]+x+y]}
+
+Q. Write a java 8 program to print words which start with 'S'?
+   Example : List<String> list = Arrays.asList("Singapore", "Patna", "Kolkata", "Shimla");
+
+
+
